@@ -10,3 +10,6 @@
 8SCC
 9s-isomap
 以及所需要的netlab程序包
+
+
+![image](https://github.com/ares5221/cocos-creator-game/blob/master/moneypay/1541139462099.jpg)
